@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Audio Player</string>
+    <string name="start_service">Start 1</string>
+    <string name="start_service_2">Start 2</string>
+    <string name="start_service_3">Start 3</string>
+    <string name="stop_service">Stop</string>
+    <string name="memutar">Memutar : -</string>
+</resources>
